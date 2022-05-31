@@ -1,0 +1,26 @@
+{
+  "sidebar.label.Introduction": {
+    "message": "Introducción",
+    "description": "Navbar item with label API"
+  },
+  "sidebar.label.User Login": {
+      "message": "Inicio de Sesión",
+      "description": "Navbar item with label API"
+    },
+  "item.label.Error Handling": {
+    "message": "Manejo de Errores",
+    "description": "Navbar item with label API Guide"
+  },
+  "item.label.Loading Learning Objects": {
+    "message": "Carga de Objetos de Aprendizaje",
+    "description": "Navbar item with label API Guide"
+  },
+  "item.label.Selenium Tests": {
+    "message": "Pruebas de Selenium",
+    "description": "Navbar item with label API Guide"
+  },
+  "sidebar.label.Issue Handling": {
+    "message": "Seguimiento de Asuntos",
+    "description": "Navbar item with label API Guide"
+  }
+}

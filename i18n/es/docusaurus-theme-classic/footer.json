@@ -1,0 +1,26 @@
+{
+  "link.item.label.EduTech": {
+    "message": "EduTech",
+    "description": "The label of footer link with label=EduTech linking to https://edutech.org"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Desarrollado por Universidad Veracruzana.",
+    "description": "The footer copyright"
+  },
+  "link.title.Documentation": {
+    "message": "Documentación",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.EduTech Links": {
+    "message": "Enlaces de EduTech",
+    "description": "The title of the footer links column with title=EduTech Links in the footer"
+  },
+  "link.item.label.Docusaurus": {
+    "message": "Docusaurus",
+    "description": "The label of footer link with label=Docusaurus linking to docs/intro"
+  },
+  "link.item.label.Swagger": {
+    "message": "Swagger",
+    "description": "The label of footer link with label=Swagger linking to https://repositorio.edutech-project.org/api-view"
+  }
+}

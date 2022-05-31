@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "EduTech",
+    "description": "The title in the navbar"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.Swagger": {
+    "message": "Swagger",
+    "description": "Navbar item with label Swagger"
+  },
+  "item.label.API Guide": {
+    "message": " Guía API",
+    "description": "Navbar item with label API Guide"
+  }
+}

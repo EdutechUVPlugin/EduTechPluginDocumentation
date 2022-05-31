@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSideBar.category.Loading Learning Objects": {
+    "message": "Carga de Objetos de Aprendizaje",
+    "description": "The label for category Loading Learning Objects in sidebar mainSideBar"
+  }
+}
